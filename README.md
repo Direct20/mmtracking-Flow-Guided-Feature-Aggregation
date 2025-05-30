@@ -12,7 +12,7 @@
 
 2.The batch size is force constrained to 1,  which may lead to not stable training and resource waste for large memory GPU. Also, the train speed is low. We solved this probelm by re-implementing the FGFA completely and  some constrains in the mmtracking framework were eliminated.
 
-**Now, this repo provides an accuracy stable FGFA which supports batch size >1. **
+** Now, this repo provides an accuracy stable FGFA which supports batch size >1.  **
 
 ## Installation, Train, Inference, etc.
 
