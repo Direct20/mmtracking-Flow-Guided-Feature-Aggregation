@@ -18,7 +18,7 @@ __Now, This repo provides an up-to-date implementation of FGFA which is accuracy
 
 ## Installation, Train, Inference, etc.
 
-The revised FGFA config files are placed in `configs/vid/fgfa_bm`. To use this code, you should be familiar with OpenMMLab's [MMTracking](https://github.com/open-mmlab/mmtracking).
+The revised FGFA config files are placed in `configs/vid/fgfa_bm`. Pretrained flow net weights is shown in Releases, download it and put it in `pretrain/` folder. To use this code, you should be familiar with OpenMMLab's [MMTracking](https://github.com/open-mmlab/mmtracking).
 
 For other details, please refer to README_mmtracking.md and [MMTracking](https://github.com/open-mmlab/mmtracking) repo.
 
