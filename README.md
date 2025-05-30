@@ -1,6 +1,6 @@
 # Flow-Guided Feature Aggregation for Video Object Detection
 
-### Introduction
+## Introduction
 
 [Paper](https://arxiv.org/abs/1703.10025) proposes a flow guided feature aggregation method for video object detection, and it has been a vital baseline for subsequent researches. However, the code attached to the paper is based on MXNet, which seldom updates anymore.
 
@@ -14,7 +14,7 @@
 
 **Now, this repo provides an accuracy stable FGFA which supports batch size >1. **
 
-### Installation, Train, Inference, etc.
+## Installation, Train, Inference, etc.
 
 The revised FGFA config files are placed in `configs/vid/fgfa_bm`.
 
